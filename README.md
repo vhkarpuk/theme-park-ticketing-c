@@ -1,6 +1,11 @@
-# Theme Park Ticketing – Menu Version (C)
+# 🎢 Theme Park Ticketing System (C Project)
 
-A menu-driven C console application that prices theme park tickets based on **ride type** and **ticket type**, with **input validation**, **15% bulk discount** for quantities > 5, and an optional **meal add-on** (£6.50 per ticket). The program prints a full cost breakdown and lets the user repeat actions until exit.
+![C](https://img.shields.io/badge/language-C-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/vhkarpuk/theme-park-ticketing-c)
+
+A **menu-driven ticketing system in C** that calculates entry costs for visitors to a theme park.  
+Developed to practice **conditionals, switch/case, and user input validation**.
 
 ## Features
 - Menu flow: **Book Tickets**, **View Ticket Prices**, **Exit**
